@@ -1,0 +1,61 @@
+employee_id,first_name,last_name,gender,date_of_birth,hire_date,department_id,job_title,employment_status,manager_id
+1,Aarav,Sharma,Male,1997-08-12,2021-11-03,6,Senior Data Analyst,Active,
+2,Vivaan,Patil,Female,2000-09-21,2023-10-14,2,Finance Manager,Active,
+3,Aditya,Rathod,Female,1990-03-26,2024-08-11,7,Operations Analyst,Active,
+4,Arjun,Kulkarni,Male,1988-02-15,2025-01-24,7,HR Executive,Inactive,3
+5,Rohan,Joshi,Male,1997-09-10,2018-12-13,8,Project Manager,Inactive,
+6,Rahul,Deshmukh,Female,1988-05-13,2021-01-15,2,HR Manager,Inactive,2
+7,Karan,Singh,Female,1996-05-27,2021-04-25,3,Data Analyst,Active,
+8,Akash,Verma,Female,1988-06-04,2023-06-09,2,Operations Analyst,Inactive,2
+9,Vikram,Gupta,Female,1991-02-23,2023-09-03,3,HR Manager,Resigned,
+10,Nikhil,Khan,Male,1997-11-11,2025-04-07,6,Customer Support Executive,Active,
+11,Ananya,More,Female,1988-10-01,2024-10-22,6,Sales Executive,Inactive,1
+12,Isha,Jadhav,Male,1997-07-13,2022-07-02,2,HR Executive,Active,2
+13,Priya,Pawar,Male,1995-08-13,2024-07-03,7,Customer Support Executive,Inactive,
+14,Sneha,Shinde,Female,1993-02-16,2024-04-17,1,Finance Analyst,Active,
+15,Neha,Chavan,Female,1988-04-12,2025-11-01,2,Finance Manager,Active,2
+16,Aditi,Sharma,Female,1989-12-08,2021-08-04,5,Operations Analyst,Inactive,
+17,Pooja,Patil,Female,1995-05-11,2021-10-09,2,Finance Analyst,Active,2
+18,Kavya,Rathod,Male,1986-10-20,2023-06-20,2,Sales Manager,Active,2
+19,Riya,Kulkarni,Female,1987-06-19,2021-06-05,4,HR Executive,Active,
+20,Meera,Joshi,Female,1995-08-10,2025-02-10,1,Finance Analyst,Resigned,
+21,Aarav,Deshmukh,Male,1999-06-19,2021-04-21,8,HR Executive,Inactive,
+22,Vivaan,Singh,Male,1996-10-13,2023-04-03,1,Sales Executive,Resigned,14
+23,Aditya,Verma,Male,1992-09-06,2023-04-22,5,Operations Analyst,Active,
+24,Arjun,Gupta,Male,1998-01-21,2021-09-18,4,Finance Analyst,Inactive,
+25,Rohan,Khan,Male,1994-02-18,2023-02-21,4,Finance Manager,Active,
+26,Rahul,More,Male,1992-03-09,2023-02-19,1,Senior Data Analyst,Active,
+27,Karan,Jadhav,Female,1987-04-25,2025-07-13,3,Customer Support Executive,Active,7
+28,Akash,Pawar,Male,1985-02-26,2021-06-13,7,Software Engineer,Active,
+29,Vikram,Shinde,Male,1992-09-14,2021-12-05,5,Operations Analyst,Active,16
+30,Nikhil,Chavan,Female,1989-12-09,2022-07-23,4,HR Executive,Active,
+31,Ananya,Sharma,Male,1998-01-25,2022-02-09,5,Finance Analyst,Active,
+32,Isha,Patil,Female,1995-02-08,2019-08-20,6,Engineering Manager,Inactive,
+33,Priya,Rathod,Male,1986-08-25,2025-03-07,1,Data Analyst,Active,
+34,Sneha,Kulkarni,Female,1990-04-23,2021-10-27,3,Senior Data Analyst,Resigned,7
+35,Neha,Joshi,Female,1989-08-14,2025-04-27,8,Senior Data Analyst,Active,5
+36,Aditi,Deshmukh,Female,1985-04-12,2025-12-05,8,Data Analyst,Inactive,
+37,Pooja,Singh,Female,1999-03-25,2018-07-13,3,Software Engineer,Inactive,
+38,Kavya,Verma,Male,1995-05-11,2025-02-20,6,Marketing Executive,Active,1
+39,Riya,Gupta,Male,1999-12-07,2018-02-02,7,Sales Manager,Active,
+40,Meera,Khan,Female,1987-05-17,2023-11-02,2,HR Executive,Active,2
+41,Aarav,More,Female,1997-04-27,2021-07-12,2,Engineering Manager,Active,2
+42,Vivaan,Jadhav,Male,1988-04-04,2018-09-27,1,Finance Analyst,Active,
+43,Aditya,Pawar,Female,1996-10-16,2021-03-24,7,Software Engineer,Inactive,
+44,Arjun,Shinde,Male,1996-10-04,2021-02-16,8,Data Analyst,Active,5
+45,Rohan,Chavan,Female,1989-02-14,2022-08-09,8,Operations Analyst,Active,
+46,Rahul,Sharma,Female,1999-06-01,2022-07-05,6,Finance Manager,Active,
+47,Karan,Patil,Female,1987-09-12,2018-12-05,5,Senior Data Analyst,Resigned,16
+48,Akash,Rathod,Female,1997-06-13,2023-10-23,1,Project Manager,Active,14
+49,Vikram,Kulkarni,Male,1998-04-22,2021-03-10,5,HR Manager,Inactive,
+50,Nikhil,Joshi,Female,1998-10-17,2020-05-04,3,Sales Manager,Active,
+51,Ananya,Deshmukh,Male,1995-12-24,2020-06-15,2,HR Executive,Active,
+52,Isha,Singh,Female,1996-11-23,2025-02-24,1,Sales Executive,Active,14
+53,Priya,Verma,Male,1987-03-23,2020-04-25,2,Sales Manager,Resigned,2
+54,Sneha,Gupta,Female,1987-02-08,2022-02-13,1,Operations Analyst,Active,
+55,Neha,Khan,Female,1985-03-05,2024-01-12,5,Operations Analyst,Inactive,
+56,Aditi,More,Female,1991-10-09,2025-07-20,8,Finance Manager,Resigned,5
+57,Pooja,Jadhav,Female,1985-06-05,2025-03-07,2,Customer Support Executive,Active,
+58,Kavya,Pawar,Female,1991-04-02,2018-05-25,5,Sales Manager,Active,16
+59,Riya,Shinde,Male,1998-02-02,2021-12-19,1,Finance Manager,Resigned,14
+60,Meera,Chavan,Female,1999-03-27,2020-10-16,7,Customer Support Executive,Inactive,

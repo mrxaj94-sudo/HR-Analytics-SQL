@@ -1,0 +1,9 @@
+department_id,department_name,location,budget
+1,IT,Pune,25000000
+2,HR,Mumbai,12000000
+3,Finance,Pune,18000000
+4,Marketing,Bengaluru,15000000
+5,Sales,Mumbai,22000000
+6,Operations,Hyderabad,20000000
+7,Data Analytics,Pune,17000000
+8,Customer Support,Delhi,14000000
